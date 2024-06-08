@@ -10,7 +10,7 @@ object-fit: cover;
 background-size: cover;
 width: 130vw;
 opacity: 0.5;
-background: url('https://raw.githubusercontent.com/iGerman00/iGerman00/main/background.jpg');
+background: url('https://github.com/Green0x/Green0x/assets/15717052/5f376581-33b4-4c97-8334-61ed768896f5');
 "]{}
 
 \mmlToken{ms}[fontfamily="
